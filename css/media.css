@@ -1,0 +1,5 @@
+@media (width <= 250px){
+  .ps-zero {
+    padding-left: 0 !important;
+  }
+}
